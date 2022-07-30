@@ -8,13 +8,13 @@ Highly interested in learning Infrastructure Engineering. Learning Ansible, with
 
 Primary technology/platform interest: Windows Server, Red Hat, NetApp, Rubrik; MS Azure.
 
-### 🤔 What about something that is not nerdy?
+### What about something that isn't nerdy?
 
-Love photography! 📸
-Love motorcycles! 🏍
-Love tea! 🍵
-Love piano and drums! 🎹🥁
-Love trying to make music - not good at it! 🎼
+- Love photography! 📸
+- Love motorcycles! 🏍
+- Love tea! 🍵
+- Love piano and drums! 🎹🥁
+- Love trying to make music - not good at it! 🎼
 
 <!--
 **Samishikute/Samishikute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
